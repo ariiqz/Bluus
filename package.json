@@ -1,5 +1,5 @@
 {
-  "name": "store",
+  "name": "Bluus",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,17 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rsadira/store.git"
+    "url": "git+https://github.com/ariiqz/Bluus.git"
   },
   "keywords": [
     "akademik"
   ],
-  "author": "rsadira",
+  "author": "Ariiq",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rsadira/store/issues"
+    "url": "https://github.com/ariiqz/Bluus.git/issues"
   },
-  "homepage": "https://github.com/rsadira/store#readme",
+  "homepage": "https://github.com/ariiqz/Bluus#readme",
   "devDependencies": {
     "nodemon": "^3.0.1"
   },
